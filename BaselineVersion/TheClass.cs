@@ -2,7 +2,7 @@
 {
     public class TheClass
     {
-        public static HttpClient? Connect(string url)
+        public static HttpClient Connect(string url)
         {
             // do something
             return null;
